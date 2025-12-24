@@ -342,12 +342,7 @@ MIT License - see LICENSE file for details.
 
 ## 🎯 Roadmap
 
-- [ ] OpenAPI 3.0 export
 - [ ] Custom themes
-- [ ] Plugin system
-- [ ] WebSocket support
-- [ ] GraphQL support
-- [ ] Multi-language support
 
 ---
 
