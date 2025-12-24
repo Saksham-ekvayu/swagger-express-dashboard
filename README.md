@@ -3,6 +3,8 @@
 A beautiful, interactive API documentation and testing dashboard for Express.js applications. This package provides an elegant, cyberpunk-themed interface for documenting and testing your REST APIs with zero configuration required.
 
 <img width="1901" height="909" alt="image" src="https://github.com/user-attachments/assets/ad4e2e89-ee3e-43eb-ba89-e3d1ca4ade6e" />
+<img width="1884" height="885" alt="image" src="https://github.com/user-attachments/assets/99c2734d-faf7-4fb6-90d9-77852d7c38c8" />
+
 
 
 ## ✨ Features
